@@ -1,0 +1,51 @@
+user_id,user_name,product_id,product_name,category,price,total_price,budget
+1,Arun,11,Running Shoes,Sports,2000,2000,3260
+1,Arun,13,Ceramic Mug,Home,400,400,3260
+1,Arun,13,Ceramic Mug,Home,400,400,3260
+2,Divya,10,Bluetooth Speaker,Electronics,1200,1200,7139
+2,Divya,18,Smartwatch X2000,Electronics,1500,1500,7139
+2,Divya,13,Ceramic Mug,Home,400,400,7139
+2,Divya,20,Yoga Mat Pro,Sports,700,700,7139
+2,Divya,18,Smartwatch X2000,Electronics,1500,1500,7139
+2,Divya,16,Water Bottle,Sports,350,350,7139
+2,Divya,13,Ceramic Mug,Home,400,400,7139
+3,Ravi,14,LED Table Lamp,Home,999,999,6679
+3,Ravi,10,Bluetooth Speaker,Electronics,1200,1200,6679
+3,Ravi,12,Notebook Set,Stationery,300,300,6679
+3,Ravi,16,Water Bottle,Sports,350,350,6679
+3,Ravi,15,Wireless Mouse,Electronics,650,650,6679
+3,Ravi,14,LED Table Lamp,Home,999,999,6679
+3,Ravi,12,Notebook Set,Stationery,300,300,6679
+4,Sneha,11,Running Shoes,Sports,2000,2000,4763
+4,Sneha,11,Running Shoes,Sports,2000,2000,4763
+4,Sneha,16,Water Bottle,Sports,350,350,4763
+4,Sneha,11,Running Shoes,Sports,2000,2000,4763
+4,Sneha,15,Wireless Mouse,Electronics,650,650,4763
+5,Karthik,19,Scented Candles,Home,550,550,9942
+5,Karthik,14,LED Table Lamp,Home,999,999,9942
+5,Karthik,10,Bluetooth Speaker,Electronics,1200,1200,9942
+5,Karthik,17,Sketch Pens,Stationery,150,150,9942
+5,Karthik,18,Smartwatch X2000,Electronics,1500,1500,9942
+6,Meena,11,Running Shoes,Sports,2000,2000,4022
+6,Meena,18,Smartwatch X2000,Electronics,1500,1500,4022
+6,Meena,14,LED Table Lamp,Home,999,999,4022
+6,Meena,20,Yoga Mat Pro,Sports,700,700,4022
+6,Meena,19,Scented Candles,Home,550,550,4022
+6,Meena,15,Wireless Mouse,Electronics,650,650,4022
+7,Ajay,11,Running Shoes,Sports,2000,2000,7729
+7,Ajay,10,Bluetooth Speaker,Electronics,1200,1200,7729
+7,Ajay,20,Yoga Mat Pro,Sports,700,700,7729
+7,Ajay,13,Ceramic Mug,Home,400,400,7729
+8,Priya,11,Running Shoes,Sports,2000,2000,9332
+8,Priya,13,Ceramic Mug,Home,400,400,9332
+8,Priya,11,Running Shoes,Sports,2000,2000,9332
+8,Priya,16,Water Bottle,Sports,350,350,9332
+8,Priya,14,LED Table Lamp,Home,999,999,9332
+9,Vikram,12,Notebook Set,Stationery,300,300,6714
+9,Vikram,15,Wireless Mouse,Electronics,650,650,6714
+9,Vikram,15,Wireless Mouse,Electronics,650,650,6714
+9,Vikram,13,Ceramic Mug,Home,400,400,6714
+9,Vikram,20,Yoga Mat Pro,Sports,700,700,6714
+10,Anjali,19,Scented Candles,Home,550,550,5187
+10,Anjali,20,Yoga Mat Pro,Sports,700,700,5187
+10,Anjali,12,Notebook Set,Stationery,300,300,5187
